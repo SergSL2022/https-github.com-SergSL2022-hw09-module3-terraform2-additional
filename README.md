@@ -16,6 +16,10 @@
 ![alt text](<screenshots/1/Знімок екрана з 2024-05-25 23-49-38.png>)
 
 ### 2. Configure default nginx in ec2 instances using user data
+![alt text](<screenshots/2/Знімок екрана з 2024-05-26 01-45-06.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-26 01-45-15.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-26 01-46-02.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-05-26 01-49-17.png>)
 
 ### 3. Create ALB in public subnets with HTTP lister and a target group linked to autoscalling group instances
 
